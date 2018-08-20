@@ -1,0 +1,9 @@
+
+Lección 1. Reflections
+
+1) How did viewing a diff between two versions of a file help you spot the bug?
+
+It helped me because it indicates the exact position of the possible mistake or error. 
+
+With the symbols its very easy
+
